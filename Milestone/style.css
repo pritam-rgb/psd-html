@@ -1,0 +1,58 @@
+.container{
+    width: 1500px;
+    height: 1860px;
+    padding-right: 151px;
+}
+.Navbar{
+    width: 1501px;
+    height: 81px;
+    display: flex;
+    border-bottom:solid 1px red;
+}
+.logo{
+    width: 127px;
+    height:59px;
+    padding: 14px 0px 15px 94px;
+    background-size: cover;
+}
+
+.header{
+    margin-left: 200px;
+    
+    
+    
+}
+
+.header_items{
+    width: 703px;
+    height: 11px;
+    padding: 34px 0px 36px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.search_btn{
+    margin-top: 29px;
+}
+.HeroContainer{
+    width: 1652px;
+    height: 700px;
+    background-size: cover;
+}
+
+.Intro{
+    width:764px;
+    height: 281px;
+    margin-left: 368px;
+}
+
+.Tiles{
+    width: 1406px;
+    height: 552px;
+    display: flex;
+    margin-left: 164px;
+}
+
+h1{
+    text-align: center;
+}
